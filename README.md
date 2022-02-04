@@ -1,3 +1,3 @@
-# hibernate
+# Endpoints
 ....
 Baza danyh nazywa sie toolstore_v2
